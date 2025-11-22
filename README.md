@@ -1,6 +1,6 @@
 # 📘 **AI-Powered Financial Advisory System — Synthetic Dataset (README)**
 
-## 📂 Repository: *Capstone_Datasets*  
+## 📂 Repository: *Samsung_Capstone_Datasets*  
 **Authors:** Hansika S., Aparna R., Rishitha T.R.  
 **Dataset URL:** https://github.com/4Hansi/samsung_capstone_datasets
 
