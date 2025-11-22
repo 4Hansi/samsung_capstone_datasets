@@ -1,8 +1,8 @@
 # 📘 **AI-Powered Financial Advisory System — Synthetic Dataset (README)**
 
 ## 📂 Repository: *Capstone_Datasets*  
-**Authors:** Han S., Apa R., Rishi T.R.  
-**Dataset URL:** https://github.com/my-repo/capstone_datasets
+**Authors:** Hansika S., Aparna R., Rishitha T.R.  
+**Dataset URL:** https://github.com/4Hansi/samsung_capstone_datasets
 
 ---
 
@@ -126,18 +126,10 @@ The dataset contains:
 # 📄 **How to Cite This Dataset**
 
 ```
-Han S., Apa R., Rishi T.R. (2025). Synthetic Behavioural-Financial Investor  
+Hanika S., Aparna R., Rishitha T.R. (2025). Synthetic Behavioural-Financial Investor  
 Profiles Dataset (Version 1.0). GitHub Repository.  
-https://github.com/my-repo/capstone_datasets
+https://github.com/4Hansi/samsung_capstone_datasets
 ```
-
----
-
-# 🤝 **Contact**
-
-- **Han S.** — dataset engineering  
-- **Apa R.** — ML modelling  
-- **Rishi T.R.** — conversational AI & system architecture  
 
 ---
 
